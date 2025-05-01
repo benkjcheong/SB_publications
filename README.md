@@ -1,5 +1,5 @@
 # SB_publications
-This is a list of links to open access full text copies of a subset of Space Biology publications since 2010.
+This is a list of links to open access, full text copies of 608 Space Biology publications published since 2010.
 
 Publications that did not have a full text version in Pubmed Central were excluded. Some plant biology publications published after 2024 are not included.
 
